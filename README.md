@@ -1,2 +1,2 @@
-# Python-al-malar-m
+# Python Calismalarim 
 Python programlama dili ile yaptığım çalışmalarım.
